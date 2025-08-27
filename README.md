@@ -2,8 +2,7 @@
 
 🚀 Software Engineering Student @ University of Guelph | Backend & Full-Stack Developer | FinTech Enthusiast  
 
-I build **real-time trading systems, REST APIs, and scalable full-stack applications**.  
-Currently focused on **Java, Spring Boot, Docker, PostgreSQL, and Cloud**.  
+I design and develop scalable **full-stack applications, real-time platforms, and secure APIs**— with a focus on building systems that perform under pressure. 
 
 ---
 ## 🚀 What I'm Up To  
