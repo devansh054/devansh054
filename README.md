@@ -6,6 +6,15 @@ I build **real-time trading systems, REST APIs, and scalable full-stack applicat
 Currently focused on **Java, Spring Boot, Docker, PostgreSQL, and Cloud**.  
 
 ---
+## 🚀 What I'm Up To  
+
+- 🤖 Exploring **Machine Learning** with scikit-learn  
+- 💻 Building **Spring Boot applications** with PostgreSQL  
+- 🌐 Expanding my **coding portfolio** with real-time trading systems and full-stack projects  
+
+👉 Check out my [Coding Portfolio](https://devansh-portfolio1.netlify.app/) 🌟
+
+---
 
 ## 🛠️ Tech Stack  
 
