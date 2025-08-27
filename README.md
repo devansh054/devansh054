@@ -37,12 +37,18 @@ Currently focused on **Java, Spring Boot, Docker, PostgreSQL, and Cloud**.
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Highlights  
 
+<!-- Temporarily hiding stats until more commits
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devansh054&show_icons=true&theme=tokyonight" alt="Devansh's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devansh054&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>  
+</p>
+-->
+
+### 🔹 Featured Projects
+- [📊 Equities Trading Platform](https://github.com/devansh054/Trading-Platform) – Real-time equities trading system with sub-second execution and IOI messaging
+- [🎮 Market Mayhem Trading Game](https://github.com/devansh054/Market-mayhem-trading-game) – Multiplayer trading sim with risk engine and WebSocket integration
+- [📈 GitHub Analytics Dashboard](https://github.com/devansh054) – Full-stack app (Flask, React, PostgreSQL) for repository analytics
 
 ---
 
