@@ -11,7 +11,7 @@ I design and develop scalable **full-stack applications, real-time platforms, an
 - 💻 Building **Spring Boot applications** with PostgreSQL  
 - 🌐 Expanding my **coding portfolio** with real-time trading systems and full-stack projects  
 
-👉 Check out my [Coding Portfolio](https://devansh-portfolio1.netlify.app/) 🌟
+👉 Check out my [Coding Portfolio](https://devansh7.netlify.app/) 🌟
 
 ---
 
