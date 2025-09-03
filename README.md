@@ -63,6 +63,7 @@ I design and develop scalable **full-stack applications, real-time platforms, an
 - [📊 Equities Trading Platform](https://github.com/devansh054/Trading-Platform) – Real-time equities trading system with sub-second execution and IOI messaging
 - [🎮 Market Mayhem Trading Game](https://github.com/devansh054/Market-mayhem-trading-game) – Multiplayer trading sim with risk engine and WebSocket integration
 - [📈 GitHub Analytics Dashboard](https://github.com/devansh054) – Full-stack app (Flask, React, PostgreSQL) for repository analytics
+- [⚽ Premier League Predictor](https://github.com/devansh054/PL2025_ML_Predictor) - A production-ready, full-stack machine learning application for predicting Premier League match outcomes. Built with modern technologies and enterprise-grade architecture patterns to demonstrate senior-level engineering skills.
 
 ---
 
