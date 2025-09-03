@@ -41,8 +41,14 @@ I design and develop scalable **full-stack applications, real-time platforms, an
 ### [🎮 Market Mayhem Trading Game](https://github.com/devansh054/Market-mayhem-trading-game)  
 - Multiplayer trading simulation (50+ concurrent users, <250ms latency)  
 - Risk engine blocking 95% of invalid trades  
-- WebSocket + microservices architecture  
-
+- WebSocket + microservices architecture
+  
+### [⚽ Premier League Predictor](https://github.com/devansh054/PL2025_ML_Predictor)
+- 81.4% prediction accuracy using Random Forest ML models on live data
+- Integrated Hugging Face Transformers + 3D visualizations with React Three Fiber
+- Scalable microservices with Docker + Kubernetes, PostgreSQL + Redis caching
+- Enterprise-grade features: A/B testing, Prometheus monitoring, SHAP explainability
+- Real-time APIs serving 1000+ requests/second
 ---
 
 ## 📊 GitHub Highlights  
