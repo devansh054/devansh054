@@ -45,7 +45,7 @@ I design and develop scalable **full-stack applications, real-time platforms, an
   
 ### [⚽ Premier League Predictor](https://github.com/devansh054/PL2025_ML_Predictor)
 - 81.4% prediction accuracy using Random Forest ML models on live data
-- Integrated Hugging Face Transformers + 3D visualizations with React Three Fiber
+- Integrated Hugging Face AI Transformers + 3D visualizations with React Three Fiber
 - Scalable microservices with Docker + Kubernetes, PostgreSQL + Redis caching
 - Enterprise-grade features: A/B testing, Prometheus monitoring, SHAP explainability
 - Real-time APIs serving 1000+ requests/second
