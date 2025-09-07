@@ -49,7 +49,13 @@ I design and develop scalable **full-stack applications, real-time platforms, an
 - Scalable microservices with Docker + Kubernetes, PostgreSQL + Redis caching
 - Enterprise-grade features: A/B testing, Prometheus monitoring, SHAP explainability
 - Real-time APIs serving 1000+ requests/second
----
+
+### [🤖 MeetingMind – AI Meeting Assistant](https://github.com/devansh054/MeetingMind)
+- Real-time transcription & AI insights with Whisper STT + GPT-powered NLP
+- Virtual whiteboard, screen annotations, and breakout rooms via WebRTC + WebSockets
+- Meeting analytics: live cost calculator, efficiency scoring, sentiment & engagement metrics
+- Automated workflows with Slack, Google Calendar & Notion integrations
+- Full-stack architecture: React + Node.js/FastAPI, PostgreSQL, Redis, Docker, AWS
 
 ## 📊 GitHub Highlights  
 
@@ -64,6 +70,7 @@ I design and develop scalable **full-stack applications, real-time platforms, an
 - [🎮 Market Mayhem Trading Game](https://github.com/devansh054/Market-mayhem-trading-game) – Multiplayer trading sim with risk engine and WebSocket integration
 - [📈 GitHub Analytics Dashboard](https://github.com/devansh054) – Full-stack app (Flask, React, PostgreSQL) for repository analytics
 - [⚽ Premier League Predictor](https://github.com/devansh054/PL2025_ML_Predictor) - A production-ready, full-stack machine learning application for predicting Premier League match outcomes. Built with modern technologies and enterprise-grade architecture patterns to demonstrate senior-level engineering skills.
+- [🤖 MeetingMind – AI Meeting Assistant](https://github.com/devansh054/MeetingMind) - AI-powered meeting assistant that transforms video calls into actionable outcomes with real-time transcription, insights, and automated workflows.
 
 ---
 
