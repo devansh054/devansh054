@@ -57,7 +57,7 @@ I design and develop scalable **full-stack applications, real-time platforms, an
 - Automated workflows with Slack, Google Calendar & Notion integrations
 - Full-stack architecture: React + Node.js/FastAPI, PostgreSQL, Redis, Docker, AWS
 
-### 🤖 [AI PDF Chatbot – Enterprise Document Intelligence Platform] (https://github.com/devansh054/ai_pdf_chatbot)
+### 🤖 [AI PDF Chatbot – Enterprise Document Intelligence Platform](https://github.com/devansh054/ai_pdf_chatbot)
 - Multi-LLM support (OpenAI, Anthropic, Google) with custom prompt templates & document summarization
 - Advanced document processing: PDF, Word, PowerPoint with intelligent categorization & tagging system
 - Enterprise security: Role-based access control, audit logging, document permissions & compliance monitoring
@@ -78,7 +78,7 @@ I design and develop scalable **full-stack applications, real-time platforms, an
 - [📈 GitHub Analytics Dashboard](https://github.com/devansh054) – Full-stack app (Flask, React, PostgreSQL) for repository analytics
 - [⚽ Premier League Predictor](https://github.com/devansh054/PL2025_ML_Predictor) - A production-ready, full-stack machine learning application for predicting Premier League match outcomes. Built with modern technologies and enterprise-grade architecture patterns to demonstrate senior-level engineering skills.
 - [🤖 MeetingMind – AI Meeting Assistant](https://github.com/devansh054/MeetingMind) - AI-powered meeting assistant that transforms video calls into actionable outcomes with real-time transcription, insights, and automated workflows.
-- [AI PDF Chatbot – Enterprise Document Intelligence Platform] (https://github.com/devansh054/ai_pdf_chatbot) - Enterprise-ready AI document intelligence platform with multi-LLM support, advanced security controls, and real-time chat capabilities for intelligent PDF analysis.
+- [AI PDF Chatbot – Enterprise Document Intelligence Platform](https://github.com/devansh054/ai_pdf_chatbot) - Enterprise-ready AI document intelligence platform with multi-LLM support, advanced security controls, and real-time chat capabilities for intelligent PDF analysis.
 
 ---
 
