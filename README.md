@@ -64,6 +64,13 @@ I design and develop scalable **full-stack applications, real-time platforms, an
 - Real-time chat with conversation threads, markdown support, export functionality & analytics dashboard
 - Full-stack architecture: Next.js + TypeScript, LangChain/LangGraph, Supabase, Zustand, Tailwind CSS
 
+### 📊 [DevPulse – AI-Powered Developer Intelligence Dashboard](https://github.com/devansh054/dev-pulse)
+- Real-time GitHub integration with OAuth authentication, live repository synchronization & Personal Access Token support
+- AI-driven productivity analytics with focus time tracking, commit analysis, performance metrics & personalized insights
+- Team collaboration platform: member management, performance ranking systems, developer health scoring & burnout prevention
+- Interactive responsive dashboard with data visualization, real-time updates, analytics charts & comprehensive reporting
+- Full-stack architecture: Next.js + TypeScript, Express.js + Node.js, PostgreSQL + Prisma ORM, Netlify + Render deployment
+
 ## 📊 GitHub Highlights  
 
 <!-- Temporarily hiding stats until more commits
@@ -79,6 +86,7 @@ I design and develop scalable **full-stack applications, real-time platforms, an
 - [⚽ Premier League Predictor](https://github.com/devansh054/PL2025_ML_Predictor) - A production-ready, full-stack machine learning application for predicting Premier League match outcomes. Built with modern technologies and enterprise-grade architecture patterns to demonstrate senior-level engineering skills.
 - [🤖 MeetingMind – AI Meeting Assistant](https://github.com/devansh054/MeetingMind) - AI-powered meeting assistant that transforms video calls into actionable outcomes with real-time transcription, insights, and automated workflows.
 - [AI PDF Chatbot – Enterprise Document Intelligence Platform](https://github.com/devansh054/ai_pdf_chatbot) - Enterprise-ready AI document intelligence platform with multi-LLM support, advanced security controls, and real-time chat capabilities for intelligent PDF analysis.
+- 📊 [DevPulse – AI-Powered Developer Intelligence Dashboard](https://github.com/devansh054/dev-pulse) - AI-powered full-stack platform providing real-time GitHub integration, productivity analytics, team collaboration features, and developer wellness insights through an interactive responsive dashboard built with Next.js, Express.js, and PostgreSQL.
 
 ---
 
