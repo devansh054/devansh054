@@ -1,32 +1,76 @@
 # 👋 Hi, I'm Devansh Khatri  
 
-🚀 Software Engineering Student @ University of Guelph | Backend & Full-Stack Developer | FinTech Enthusiast  
+🎓 **Software Engineering Graduate** @ University of Guelph | **Backend & Cloud Developer** | **AI & FinTech Enthusiast**  
 
-I design and develop scalable **full-stack applications, real-time platforms, and secure APIs**— with a focus on building systems that perform under pressure. 
+I design and develop **scalable full-stack applications, AI-driven systems, and distributed backend services** — with a focus on performance, reliability, and clean architecture. My work blends backend engineering, automation, and applied AI to build systems that perform under real-world load.
 
 ---
-## 🚀 What I'm Up To  
 
-- 🤖 Exploring **Machine Learning** with scikit-learn  
-- 💻 Building **Spring Boot applications** with PostgreSQL  
-- 🌐 Expanding my **coding portfolio** with real-time trading systems and full-stack projects  
+## 🚀 What I'm Working On  
 
-👉 Check out my [Coding Portfolio](https://devansh7.netlify.app/) 🌟
+- ⚙️ Building **microservice-based architectures** using **FastAPI**, **Node.js**, and **Docker**
+- ☁️ Deploying cloud-native applications on **AWS (Lambda, SQS, RDS, EC2)**  
+- 🤖 Exploring **LLM applications** with **LangChain**, **OpenAI API**, and **Retrieval-Augmented Generation (RAG)**  
+- 📊 Optimizing **PostgreSQL** and **NoSQL** data workflows for real-time analytics  
+- 🧩 Enhancing CI/CD pipelines and automation tools for faster, more reliable deployment  
+
+👉 Check out my live portfolio: [**devansh7.netlify.app**](https://devansh7.netlify.app/) 🌐  
 
 ---
 
 ## 🛠️ Tech Stack  
 
- 
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![VHDL](https://img.shields.io/badge/VHDL-008080?style=for-the-badge&logoColor=white)
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
+---
 
-**Frameworks & Tools:**  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+### **Frameworks & Libraries**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-**Other Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![CI/CD](https://img.shields.io/badge/CI/CD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+---
+
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+
+---
+
+### **Monitoring & Testing**
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+
+---
+
+### 💡 Currently Exploring
+- 🤖 Advanced **LLM applications** with **LangChain** and **RAG architecture**
+- 🧱 **Serverless backend design** using AWS Lambda & DynamoDB Streams  
+- 📦 **Containerized deployments** with Docker and Kubernetes  
+- 🧠 Real-time **data processing pipelines** for financial systems  
+
 
 ---
 
