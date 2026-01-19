@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Devansh Khatri  
 
-🎓 **Software Engineering Graduate** @ University of Guelph | **Backend & Cloud Developer** | **AI & FinTech Enthusiast**  
+🎓 **Software Engineering Recent Graduate** @ University of Guelph | **Backend & Cloud Developer** | **AI & FinTech Enthusiast**  
 
 I design and develop **scalable full-stack applications, AI-driven systems, and distributed backend services** with a focus on performance, reliability, and clean architecture. My work blends backend engineering, automation, and applied AI to build systems that perform under real-world load.
 
